@@ -1,6 +1,7 @@
 # Team Name
+The Originals
 
-Project description (~1 paragraph)
+Our project is about creating an application which consists of novels of different genres and there will be few special features for that. The person using the application can download the book they desire. This application is being created by taking anybooks application as reference.
 
 ## Team Members and Roles
 
