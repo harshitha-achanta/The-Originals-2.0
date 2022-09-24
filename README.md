@@ -7,7 +7,7 @@ Our project is about creating an application which consists of novels of differe
 
 * Member 1 (Harshitha Achanta - My roles are to design the special features to the application and help my friend in the backend coding.)
 * Member 2 (Gunda Sai Murali - My roles are to design the backend for the application and the product details in them.)
-* Member 3 (Role 5, Role 6)
+* Member 3 (sasidhar reddy kunduru - My role is project planning and frontend development)
 
 ## Prerequisites
 
