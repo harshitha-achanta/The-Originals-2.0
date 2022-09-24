@@ -6,7 +6,7 @@ Our project is about creating an application which consists of novels of differe
 ## Team Members and Roles
 
 * Member 1 (Harshitha Achanta - My roles are to design the special features to the application and help my friend in the backend coding.)
-* Member 2 (Role 3, Role 4)
+* Member 2 (Gunda Sai Murali - My roles are to design the backend for the application and the product details in them.)
 * Member 3 (Role 5, Role 6)
 
 ## Prerequisites
