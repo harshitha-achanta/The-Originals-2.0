@@ -1,3 +1,7 @@
+# Overview
+This document contains functional and non-functional requirements for the application's login and signup page, product page, and check-in page.
+
+
 # Functional Requirements 
 1. Sign up/login Page
      1. The user shall be validated by sending the otp to the user through mail/phone number
