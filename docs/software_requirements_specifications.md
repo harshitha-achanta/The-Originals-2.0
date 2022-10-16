@@ -29,8 +29,6 @@
       3. Rating of the books shall be collected from the user and they are displayed beside the name of the book
 
 
-
-# Non-functional Requirements
 3. check-in page
      1. The location change shall be updated immediatly in the user profile
      2. User shall be able to go back to the home page after ordering the book
