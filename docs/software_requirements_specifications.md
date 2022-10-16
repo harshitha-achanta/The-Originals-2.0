@@ -4,6 +4,17 @@
      2. The details of the user shall be secured by enabling the two step verification option
      3. User shall click on the forgot password visible below the password field 
 
+2. Product page
+      1. Products shall be added to the cart by tapping on the add to cart button
+      2. Products shall be saved by tapping on to the wishlist button
+      3. Products shall be liked by clicking on the like button 
+
+
+3. check-in page
+     1. User shall be able to get a notification after ordering a book
+     2. User shall be able to get a sample book after placing the order
+     3. Payment details shall be shown to the customer once the order is finalized 
+
 
 # Non-functional Requirements
 1. Sign in/login Page
@@ -12,28 +23,11 @@
       3. Loading of the homepage shall have any amount of time
 
 
-
-# Functional Requirements
-2. Product page
-      1. Products shall be added to the cart by tapping on the add to cart button
-      2. Products shall be saved by tapping on to the wishlist button
-      3. Products shall be liked by clicking on the like button 
-
-
-
-# Non-functional Requirements
 2. Product page
       1. The reviews given by the users shall be displayed in the project description
       2. The comments given by the user shall be displayed by the book description
       3. Rating of the books shall be collected from the user and they are displayed beside the name of the book
 
-
-
-# Functional Requirements
-3. check-in page
-     1. User shall be able to get a notification after ordering a book
-     2. User shall be able to get a sample book after placing the order
-     3. Payment details shall be shown to the customer once the order is finalized
 
 
 # Non-functional Requirements
