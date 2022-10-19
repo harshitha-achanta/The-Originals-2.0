@@ -1,3 +1,5 @@
+theme: jekyll-theme-cayman
+
 # Overview
 This document contains functional and non-functional requirements for the application's login and signup page, product page, and check-in page.
 
