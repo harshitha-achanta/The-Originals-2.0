@@ -19,8 +19,7 @@ Book Store is to make books easily accessible to public.
   * Adobe XD
   
  # Future Enhancements
-   
-  * The switch from written books being from bookstores to being ordered online or even just digital copies has had profound effects on the industry 
+   * The switch from written books being from bookstores to being ordered online or even just digital copies has had profound effects on the industry 
     including bookstores and libraries and the general
     people of the world.
   * To me, it seems that e-books, Google books, and online retailers are the future and that the future is good.
