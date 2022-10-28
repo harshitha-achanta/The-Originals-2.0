@@ -13,10 +13,10 @@ Book Store is to make books easily accessible to public.
 > Our project is about creating an application which consists of novels of different genres and there will be few special features for that. The person using the application can download the book they desire. This application is being created by taking anybooks application as reference. When a purchase a book then he gets a reward and he can use them to purchase any other book. The search engine lets the users to search for their books and let them order those books. The users can also keep the books in the wishlist so he can purchase them later. He can also get sample of the book before buying them. This application is specially designed for book lovers.
 
 # Technologies Used To Develop The Project
-  *Flutter for development
-  *Firebase for DataBase 
-  *cloud firestore for development.
-  *Adobe XD
+  * Flutter for development
+  * Firebase for DataBase 
+  * cloud firestore for development.
+  * Adobe XD
   
  # Future Enhancements
    
