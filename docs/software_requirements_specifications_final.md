@@ -193,16 +193,14 @@ During the process of developing the application, several artifacts were created
 
 ## Software Artifacts
 
-*[Database table.pdf]
+*[Database table.pdf](https://github.com/harshitha-achanta/The-Originals-2.0/blob/master/docs/Database%20table.pdf)
 
-*[class diagram and object diagram.pdf]
+*[class diagram and object diagram.pdf](https://github.com/harshitha-achanta/The-Originals-2.0/blob/master/docs/class%20diagram%20and%20object%20diagram.pdf)
 
-*[class diagrams and signatures.pdf]
+*[class diagrams and signatures.pdf](https://github.com/harshitha-achanta/The-Originals-2.0/blob/master/docs/class%20diagrams%20and%20signatures.pdf)
 
-*[sequence and state machine diagram.pdf]
+*[sequence and state machine diagram.pdf](https://github.com/harshitha-achanta/The-Originals-2.0/blob/master/docs/sequence%20and%20state%20machine%20diagram.pdf)
 
-*[mockup screens.pdf]
-
-*[class diagram pre and post condition.pdf]
+*[mockup screens.pdf](https://github.com/harshitha-achanta/The-Originals-2.0/blob/master/docs/mockup%20screens.pdf)
 
 *[ACTIVITY DIAGRAM,USE CASE DIAGRAM.PDF](https://github.com/harshitha-achanta/The-Originals-2.0/blob/master/docs/ACTIVITY%20DIAGRAM%2CUSE%20CASE%20DIAGRAM.pdf)
