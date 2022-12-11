@@ -37,7 +37,7 @@ Installation:
 
 •	chocolatey-it is a tool for automating software installations and routine tasks.
 
- # Artifacts
+ ## Artifacts
  
  *[Database table.pdf](https://github.com/harshitha-achanta/The-Originals-2.0/blob/master/docs/Database%20table.pdf)
 
