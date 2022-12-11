@@ -5,7 +5,7 @@ The online book store is the best way for students & other general users to buy 
 # Software Requirements
 ## Functional Requirements
 
-1)Login/signup:
+### 1)Login/signup:
 
 FR1. User shall be validated by sending the OTP to the user through mail/phone number.
 
