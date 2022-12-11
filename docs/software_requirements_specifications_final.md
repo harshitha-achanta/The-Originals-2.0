@@ -190,3 +190,19 @@ During the process of developing the application, several artifacts were created
 | Class Cart Items      |     FR17  |
 | Class Orders      |     FR19,FR20,FR21,FR29   |
 | Class Order Items      |     FR28     |
+
+## Software Artifacts
+
+*[Database table.pdf]
+
+*[class diagram and object diagram.pdf]
+
+*[class diagrams and signatures.pdf]
+
+*[sequence and state machine diagram.pdf]
+
+*[mockup screens.pdf]
+
+*[class diagram pre and post condition.pdf]
+
+*[ACTIVITY DIAGRAM,USE CASE DIAGRAM.PDF]
