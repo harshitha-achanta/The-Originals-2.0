@@ -138,5 +138,6 @@ NFR23. Usability of coupons.
 NFR24. The growth of the application shall be done through marketing by providing zero delivery charges.
 
 NFR25. Orders to be defined without obstacles.
+
 NFR26. Similar products must be displayed down below.
  
