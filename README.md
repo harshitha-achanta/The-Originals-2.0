@@ -1,5 +1,5 @@
 # Team Name
-The Originals
+### The Originals
 
 Our project is about creating an application which consists of novels of different genres and there will be few special features for that. The person using the application can download the book they desire. This application is being created by taking anybooks application as reference.
 
