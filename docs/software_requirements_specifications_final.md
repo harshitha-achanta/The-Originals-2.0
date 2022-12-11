@@ -157,4 +157,33 @@ Since our program is designed for Android devices, we will not invite Apple's Ma
 ### To ensure that discovered issues are resolved:
 
 While building this application, we came across several faults and mistakes; however, most of them are function-based. The problems with the functions were resolved through further research into the technology. However, for anybody to be able to carry out our project, they will need to install the identical versions that we used.
+
+## Traceability links
+## usecase Diagram 
  
+| Artifact ID | Artifact Name | Requirement ID |
+| :-------------: | :----------: | :----------: |
+|    Id1     | Login    |     FR01   |
+|    Id2     | Add To Cart    |     FR23     |
+|    Id3     | Remove Items   |     FR17    |
+
+## Activity Diagram
+
+| Artifact ID | Artifact Name | Requirement ID |
+| :-------------: | :----------: | :----------: |
+|    Id4     | Sign Up    |     FR06    |
+|    Id5     |  Payment Details   |     FR21     |
+|    Id6     | Order Status   |     FR30    |
+
+## Class Diagram
+
+| Artifact Name   | Requirement ID |
+| :----------:    | :----------: |
+| Class User      |     FR01-FR06    |
+| Class Location  |     FR16     |
+| Class Books      |     FR08,FR11,FR20,FR24     |
+| Class Admin      |     FR25,FR26     |
+| Class Cart      |     FR23,FR10   |
+| Class Cart Items      |     FR17  |
+| Class Orders      |     FR19,FR20,FR21,FR29   |
+| Class Order Items      |     FR28     |
