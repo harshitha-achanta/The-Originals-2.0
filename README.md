@@ -33,6 +33,6 @@ Installation:
 
 •	JDK stands for Java Development Kit and provides an environment for creating Java applications.
 
-•	Libraries and tools are made available by Dart. SDK-it.
+•	Libraries and tools are made available by Dart.SDK.
 
 •	chocolatey-it is a tool for automating software installations and routine tasks.
