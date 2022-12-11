@@ -205,4 +205,4 @@ During the process of developing the application, several artifacts were created
 
 *[class diagram pre and post condition.pdf]
 
-*[ACTIVITY DIAGRAM,USE CASE DIAGRAM.PDF]
+*[ACTIVITY DIAGRAM,USE CASE DIAGRAM.PDF](https://github.com/harshitha-achanta/The-Originals-2.0/blob/master/docs/ACTIVITY%20DIAGRAM%2CUSE%20CASE%20DIAGRAM.pdf)
