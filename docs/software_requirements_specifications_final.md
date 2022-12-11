@@ -19,7 +19,7 @@ FR5. Working on the signup button is very important.
 
 FR6. New user details should be saved in the database.
 
-2)Homepage:
+### 2)Homepage:
 
 FR7. correct results provided for search engine on the home page is necessary.
 
@@ -31,7 +31,7 @@ FR10. Display and work of add to cart logo on the home page is necessary.
 
 FR11. Search a book using keywords such as author, year of publication, title, etc. It is crucial.
 
-3)user info & functions:
+### 3)user info & functions:
 
 FR12. Users can update their contact & email information.
 
@@ -49,7 +49,7 @@ FR18. User gets to search for their required books.
 
 FR19. User being able to track the order.
 
-4)Product and product details:
+### 4)Product and product details:
 
 FR20. Sample book shall be displayed to the customers once the order is placed.
 
@@ -65,7 +65,7 @@ FR25. Inserting /Adding new books to the application.
 
 FR26. Updating the app regarding the books which are out of stock.
 
-5)Order details:
+### 5)Order details:
 
 FR27. verification of customers' addresses must be done while logging in.
 
@@ -79,7 +79,7 @@ FR31. User being able to add any delivery instructions.
 
 ## Non-functional requirements:
 
-1)Login/signup:
+### 1)Login/signup:
 
 NFR1. Scalability of application as the users are increased.
 
@@ -91,7 +91,7 @@ NFR4. Adding any new details of the existing user from time to time in a databas
 
 NFR5. Security of the user details.
 
-2)Homepage:
+### 2)Homepage:
 
 NFR6. performance of search engine.
 
@@ -103,7 +103,7 @@ NFR9. Price filter on the home page is not used that much in an online bookstore
 
 NFR10. the Total number of products present on the website.
 
-3)user info & functions:
+### 3)user info & functions:
 
 NFR11. Updating the language based on the user locations is not required.
 
@@ -117,7 +117,7 @@ NFR15. User date of birth is not mandatory.
 
 NFR16. Gender of the user is not mandatory.
 
-4)Product and product details:
+### 4)Product and product details:
 
 NFR17. Rating of the books shall be collected from the user, and they are displayed beside the name of the book.
 
@@ -129,7 +129,7 @@ NFR20. The books shall be wishlisted by tapping on the wishlist button.
 
 NFR21. Similar products must be displayed down below.
 
-5)Order details:
+### 5)Order details:
 
 NFR22. Performance of check-ins.
 
@@ -138,6 +138,5 @@ NFR23. Usability of coupons.
 NFR24. The growth of the application shall be done through marketing by providing zero delivery charges.
 
 NFR25. Orders to be defined without obstacles.
-
 NFR26. Similar products must be displayed down below.
  
