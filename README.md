@@ -36,3 +36,16 @@ Installation:
 •	Libraries and tools are made available by Dart.SDK.
 
 •	chocolatey-it is a tool for automating software installations and routine tasks.
+
+ # Artifacts
+ 
+ *[Database table.pdf](https://github.com/harshitha-achanta/The-Originals-2.0/blob/master/docs/Database%20table.pdf)
+
+*[class diagram and object diagram.pdf](https://github.com/harshitha-achanta/The-Originals-2.0/blob/master/docs/class%20diagram%20and%20object%20diagram.pdf)
+
+*[class diagrams and signatures.pdf](https://github.com/harshitha-achanta/The-Originals-2.0/blob/master/docs/class%20diagrams%20and%20signatures.pdf)
+
+*[sequence and state machine diagram.pdf](https://github.com/harshitha-achanta/The-Originals-2.0/blob/master/docs/sequence%20and%20state%20machine%20diagram.pdf)
+
+*[mockup screens.pdf](https://github.com/harshitha-achanta/The-Originals-2.0/blob/master/docs/mockup%20screens.pdf)
+
