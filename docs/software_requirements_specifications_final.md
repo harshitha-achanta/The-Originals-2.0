@@ -159,6 +159,9 @@ Since our program is designed for Android devices, we will not invite Apple's Ma
 While building this application, we came across several faults and mistakes; however, most of them are function-based. The problems with the functions were resolved through further research into the technology. However, for anybody to be able to carry out our project, they will need to install the identical versions that we used.
 
 ## Traceability links
+
+During the process of developing the application, several artifacts were created, and this section's goal was to guide those artifacts. In addition, we will divide the requirements into functional and non-functional categories before aligning them with the objects. Listed below are links that will take you to each individual artifact for the application.
+
 ## usecase Diagram 
  
 | Artifact ID | Artifact Name | Requirement ID |
