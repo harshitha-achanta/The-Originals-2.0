@@ -140,4 +140,21 @@ NFR24. The growth of the application shall be done through marketing by providin
 NFR25. Orders to be defined without obstacles.
 
 NFR26. Similar products must be displayed down below.
+
+## Change Management Plan
+
+### How to train people to use the application:
+
+The application that we built is simple to use. Any user can utilize it with only one touch tap, regardless of age. However, if the situation calls for it, we may give users a user guide to make their jobs easier.The user guide that explains how to use our program includes the following instructions:
+
+Users may log in to the application with their data and pick a book from the home page to begin the registration process. Following that, a chapter from the book may be found underneath the product itself. After reading a sample of the book, if the customer decides to purchase the book, they may do so by clicking the "Add to Cart" button on the book's product page. After the user has added a book to the shopping cart, he may go to the checkout page, where he will be required to click the button labeled "Conform Orders". Following confirmation of the order, the customer is given a tracking number to monitor their charges.
+
+
+### How to ensure that it integrates within their ecosystem/software:
+
+Since our program is designed for Android devices, we will not invite Apple's Mac operating system users to test it out. However, we guarantee this program will function properly on any android mobile device. After installing the application's APK file, you may start using it. According to the positive feedback we've received from clients, our application's features all function just as intended.
+
+### To ensure that discovered issues are resolved:
+
+While building this application, we came across several faults and mistakes; however, most of them are function-based. The problems with the functions were resolved through further research into the technology. However, for anybody to be able to carry out our project, they will need to install the identical versions that we used.
  
