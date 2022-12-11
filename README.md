@@ -12,3 +12,27 @@ Our project is about creating an application which consists of novels of differe
 ## Prerequisites
 
 ## Run Instructions
+
+Firstly you will need a few technologies and packages, such as
+Flutter   version 2.2.3
+JDK
+Dart.SDK
+Chocolatey
+Firebase
+Adobe XD
+
+Installation:
+
+•	Install the specified technologies and packages, then connect the android studio to your computer.
+
+•	After everything has been set up, a trial run may be carried out by connecting an Android phone to the desktop computer.
+
+•	Another simple option is to open the APK file on a mobile device that runs Android.
+
+•	Flutter is used to rapidly develop code, reduce the time spent on code development, and accelerate the testing process.
+
+•	JDK stands for Java Development Kit and provides an environment for creating Java applications.
+
+•	Libraries and tools are made available by Dart. SDK-it.
+
+•	chocolatey-it is a tool for automating software installations and routine tasks.
