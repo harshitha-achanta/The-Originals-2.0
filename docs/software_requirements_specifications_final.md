@@ -6,6 +6,7 @@ The online book store is the best way for students & other general users to buy 
 ## Functional Requirements
 
 1)Login/signup:
+
 FR1. User shall be validated by sending the OTP to the user through mail/phone number.
 FR2. The user's details shall be secured by enabling the two steps verification option.
 FR3. Verification of the user shall be done during login.
