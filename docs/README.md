@@ -14,8 +14,7 @@ Book Store is to make books easily accessible to public.
 
 # Technologies Used To Develop The Project
   * Flutter for development
-  * Firebase for DataBase 
-  * Firebase for database connection.
+  * Firebase for DataBase
   * Adobe XD
   
  # Future Enhancements
